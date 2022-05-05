@@ -1,0 +1,3 @@
+C:/Users/Alexander/source/repos/sdlka/arkanoid/bin/CMakeFiles/arkanoid.dir
+C:/Users/Alexander/source/repos/sdlka/arkanoid/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/Alexander/source/repos/sdlka/arkanoid/bin/CMakeFiles/ZERO_CHECK.dir
