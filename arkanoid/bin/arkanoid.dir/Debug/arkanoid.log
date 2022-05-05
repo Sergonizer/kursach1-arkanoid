@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\ball.h(97,24): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\ball.h(98,24): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(156,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(159,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(160,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(200,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(200,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(306,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(389,31): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(389,31): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(389,62): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(389,62): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(390,50): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(390,50): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(390,99): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(390,99): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(400,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(404,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(428,37): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(433,37): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(488,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(494,122): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(133): warning C4715: window::quit_state: значение возвращается не при всех путях выполнения
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(310): warning C4172: возвращение адреса локальной или временной переменной : tmp
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(346): warning C4172: возвращение адреса локальной или временной переменной : rect
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\block.h(54): warning C4715: block::load_textures: значение возвращается не при всех путях выполнения
+C:\Users\Alexander\source\repos\sdlka\arkanoid\src\window.h(359): warning C4172: возвращение адреса локальной или временной переменной : intersections
+  arkanoid.vcxproj -> C:\Users\Alexander\source\repos\sdlka\arkanoid\bin\Debug\arkanoid.exe
